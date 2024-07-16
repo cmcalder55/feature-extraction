@@ -1,5 +1,7 @@
 # Feature Extraction
-### [Auto-Encoder](./autoencoder/)
-### [Hidden Layer Network](./hidden-layers/)
-### [Semantic Network](./semantic-net/)
-### [Vector Embedding](./vector-embedding/)
+
+## [Auto-Encoder](./autoencoder/)
+
+## [Eigen Projections and Probability Density](./eigen-proj)
+
+## [Semantic Network](./semantic-net)
