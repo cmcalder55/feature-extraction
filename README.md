@@ -4,4 +4,4 @@
 
 ## [Eigen Projections and Probability Density](./eigen-proj)
 
-## [Semantic Network](./semantic-net)
+## [Semantic Network](./semantic-network)
