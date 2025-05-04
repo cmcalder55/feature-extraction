@@ -14,8 +14,6 @@ from keras._tf_keras.keras.models import Model
 
 # metadata
 __author__= "Cameron Calder"
-__maintainer__= "Cameron Calder"
-__email__=""
 __copyright__ = "(C)Copyright 2024-Present, Cameron Calder"
 __license__=""
 __version__= "1.0.0"
@@ -23,7 +21,7 @@ __version__= "1.0.0"
 
 class ImgAutoEncoder():
     """Deep auto-encoder for images.
-
+    
     Images can be color or grayscale.
     """
     
